@@ -1,2 +1,2 @@
-# Quick_Win
+# quick_win
 Quick Win Project Repository
